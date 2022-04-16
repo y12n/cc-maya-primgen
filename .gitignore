@@ -105,3 +105,6 @@ $RECYCLE.BIN/
 *.db
 *.opendb
 *.ipch
+
+.vs
+/make/out
